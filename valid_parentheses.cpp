@@ -39,7 +39,7 @@ int main() {
     if (isValid(s))
         cout << "Valid Parentheses" << endl;
     else
-        cout << "Invalid Parentheses" << endl;
+        cout << "not possible " << endl;
 
     return 0;
 }
